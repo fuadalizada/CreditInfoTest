@@ -1,1 +1,2 @@
 # CreditInfoTest
+I built the project using generic repository pattern and layer architecture.I designed the db with code first approach and added some basic functionalities because while reading the documentation I couldn't understand what functionalities should be there exactly.Then I implemented API key option for security reasons.You can send the requests using that key.By the way, you can find the Api key in appsettings.json file.If any question, let me know pls.
