@@ -1,0 +1,12 @@
+D:\VisualStudio2022\CreditInfoTest\CreditInfoTest\CreditInfoTest.Domain\bin\Debug\net6.0\CreditInfoTest.Domain.deps.json
+D:\VisualStudio2022\CreditInfoTest\CreditInfoTest\CreditInfoTest.Domain\bin\Debug\net6.0\CreditInfoTest.Domain.dll
+D:\VisualStudio2022\CreditInfoTest\CreditInfoTest\CreditInfoTest.Domain\bin\Debug\net6.0\CreditInfoTest.Domain.pdb
+D:\VisualStudio2022\CreditInfoTest\CreditInfoTest\CreditInfoTest.Domain\obj\Debug\net6.0\CreditInfoTest.Domain.csproj.AssemblyReference.cache
+D:\VisualStudio2022\CreditInfoTest\CreditInfoTest\CreditInfoTest.Domain\obj\Debug\net6.0\CreditInfoTest.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio2022\CreditInfoTest\CreditInfoTest\CreditInfoTest.Domain\obj\Debug\net6.0\CreditInfoTest.Domain.AssemblyInfoInputs.cache
+D:\VisualStudio2022\CreditInfoTest\CreditInfoTest\CreditInfoTest.Domain\obj\Debug\net6.0\CreditInfoTest.Domain.AssemblyInfo.cs
+D:\VisualStudio2022\CreditInfoTest\CreditInfoTest\CreditInfoTest.Domain\obj\Debug\net6.0\CreditInfoTest.Domain.csproj.CoreCompileInputs.cache
+D:\VisualStudio2022\CreditInfoTest\CreditInfoTest\CreditInfoTest.Domain\obj\Debug\net6.0\CreditInfoTest.Domain.dll
+D:\VisualStudio2022\CreditInfoTest\CreditInfoTest\CreditInfoTest.Domain\obj\Debug\net6.0\refint\CreditInfoTest.Domain.dll
+D:\VisualStudio2022\CreditInfoTest\CreditInfoTest\CreditInfoTest.Domain\obj\Debug\net6.0\CreditInfoTest.Domain.pdb
+D:\VisualStudio2022\CreditInfoTest\CreditInfoTest\CreditInfoTest.Domain\obj\Debug\net6.0\ref\CreditInfoTest.Domain.dll

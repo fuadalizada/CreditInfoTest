@@ -1,0 +1,17 @@
+D:\VisualStudio2022\CreditInfoTest\CreditInfoTest\CreditInfoTest.DAL\bin\Debug\net6.0\CreditInfoTest.DAL.deps.json
+D:\VisualStudio2022\CreditInfoTest\CreditInfoTest\CreditInfoTest.DAL\bin\Debug\net6.0\CreditInfoTest.DAL.runtimeconfig.json
+D:\VisualStudio2022\CreditInfoTest\CreditInfoTest\CreditInfoTest.DAL\bin\Debug\net6.0\CreditInfoTest.DAL.dll
+D:\VisualStudio2022\CreditInfoTest\CreditInfoTest\CreditInfoTest.DAL\bin\Debug\net6.0\CreditInfoTest.DAL.pdb
+D:\VisualStudio2022\CreditInfoTest\CreditInfoTest\CreditInfoTest.DAL\bin\Debug\net6.0\CreditInfoTest.Domain.dll
+D:\VisualStudio2022\CreditInfoTest\CreditInfoTest\CreditInfoTest.DAL\bin\Debug\net6.0\CreditInfoTest.Domain.pdb
+D:\VisualStudio2022\CreditInfoTest\CreditInfoTest\CreditInfoTest.DAL\obj\Debug\net6.0\CreditInfoTest.DAL.csproj.AssemblyReference.cache
+D:\VisualStudio2022\CreditInfoTest\CreditInfoTest\CreditInfoTest.DAL\obj\Debug\net6.0\CreditInfoTest.DAL.GeneratedMSBuildEditorConfig.editorconfig
+D:\VisualStudio2022\CreditInfoTest\CreditInfoTest\CreditInfoTest.DAL\obj\Debug\net6.0\CreditInfoTest.DAL.AssemblyInfoInputs.cache
+D:\VisualStudio2022\CreditInfoTest\CreditInfoTest\CreditInfoTest.DAL\obj\Debug\net6.0\CreditInfoTest.DAL.AssemblyInfo.cs
+D:\VisualStudio2022\CreditInfoTest\CreditInfoTest\CreditInfoTest.DAL\obj\Debug\net6.0\CreditInfoTest.DAL.csproj.CoreCompileInputs.cache
+D:\VisualStudio2022\CreditInfoTest\CreditInfoTest\CreditInfoTest.DAL\obj\Debug\net6.0\CreditInfoTest.DAL.csproj.CopyComplete
+D:\VisualStudio2022\CreditInfoTest\CreditInfoTest\CreditInfoTest.DAL\obj\Debug\net6.0\CreditInfoTest.DAL.dll
+D:\VisualStudio2022\CreditInfoTest\CreditInfoTest\CreditInfoTest.DAL\obj\Debug\net6.0\refint\CreditInfoTest.DAL.dll
+D:\VisualStudio2022\CreditInfoTest\CreditInfoTest\CreditInfoTest.DAL\obj\Debug\net6.0\CreditInfoTest.DAL.pdb
+D:\VisualStudio2022\CreditInfoTest\CreditInfoTest\CreditInfoTest.DAL\obj\Debug\net6.0\CreditInfoTest.DAL.genruntimeconfig.cache
+D:\VisualStudio2022\CreditInfoTest\CreditInfoTest\CreditInfoTest.DAL\obj\Debug\net6.0\ref\CreditInfoTest.DAL.dll
